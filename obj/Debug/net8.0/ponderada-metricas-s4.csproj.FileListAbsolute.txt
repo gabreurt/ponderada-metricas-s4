@@ -1,0 +1,17 @@
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\bin\Debug\net8.0\ponderada-metricas-s4.exe
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\bin\Debug\net8.0\ponderada-metricas-s4.deps.json
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\bin\Debug\net8.0\ponderada-metricas-s4.runtimeconfig.json
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\bin\Debug\net8.0\ponderada-metricas-s4.dll
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\bin\Debug\net8.0\ponderada-metricas-s4.pdb
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\obj\Debug\net8.0\ponderada-metricas-s4.csproj.AssemblyReference.cache
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\obj\Debug\net8.0\ponderada-metricas-s4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\obj\Debug\net8.0\ponderada-metricas-s4.AssemblyInfoInputs.cache
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\obj\Debug\net8.0\ponderada-metricas-s4.AssemblyInfo.cs
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\obj\Debug\net8.0\ponderada-metricas-s4.csproj.CoreCompileInputs.cache
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\obj\Debug\net8.0\ponderad.29733903.Up2Date
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\obj\Debug\net8.0\ponderada-metricas-s4.dll
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\obj\Debug\net8.0\refint\ponderada-metricas-s4.dll
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\obj\Debug\net8.0\ponderada-metricas-s4.pdb
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\obj\Debug\net8.0\ponderada-metricas-s4.genruntimeconfig.cache
+C:\Users\bielt\OneDrive\Documentos\GitHub\ponderada-metricas-s4\obj\Debug\net8.0\ref\ponderada-metricas-s4.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EE4v3C0xi7L1yJyxoFaE+bYKprw8i1fLHZCWXW5b4PDIwOY4+1miQkv/sycblumt9BRizHyLX1/zYJomotoKXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bielt\\OneDrive\\Documentos\\GitHub\\ponderada-metricas-s4\\ponderada-metricas-s4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bielt\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
